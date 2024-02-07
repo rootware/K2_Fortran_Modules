@@ -1,0 +1,1 @@
+gfortran mtdefs.F90 mtfort90.F90 conversion.F90 coef.F90 sde.F90 main.F90 -o wow
