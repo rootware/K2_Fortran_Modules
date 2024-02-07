@@ -1,7 +1,8 @@
 # K2_Fortran_Modules
 Author: Shah Saad Alam
 
-These Fortran modules were written as part of my contribution to the K2 Space Weather Modelling project during my Masters .Created this repo recently mostly for personal reference.
+During my Masters in Computational Space and Plasma Physics, I was a Graduate Researcher with Prof. Anthony Chan. 
+These Fortran modules were written as part of my contribution to the K2 Space Weather Modelling project during my Masters in S.Created this repo recently mostly for personal reference.
 
 ## Code Notes:
 This code was designed to take in diffusion coefficients data in pitch-angle and momentum $\alpha_0, p$ coordinates, and simulate the kinetics of radiation belt electrons in adiabatic invariant space and convert back. Eventual goal for these modules was for integration into other, larger, simulation codebase.
